@@ -63,7 +63,7 @@ function stopwatch() {
         if(sec<10) {
             secString = "0" + secString;
         }
-        if(hr<10) {
+        if(count<10) {
             countString = "0" + countString;
         }
 
